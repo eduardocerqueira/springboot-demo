@@ -8,6 +8,7 @@ public class AuthController {
 
     @GetMapping("/login")
     public String loginPage() {
+        System.err.println(this.getClass().getName());
         return "login";
     }
 
