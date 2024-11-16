@@ -20,6 +20,16 @@
 - `/logout` - Log out and redirect to login page
 
 
+
+```
+mvn dependency:tree
+mvn clean install
+mvn spring-boot:run
+
+java -jar target/demo-0.0.1-SNAPSHOT.jar
+```
+
+
 # Password Encryptor utility
 
 if application is running you can use http://localhost:8080/encrypt-password?password=mypassword123
