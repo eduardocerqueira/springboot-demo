@@ -1,2 +1,0 @@
-admin,$2a$10$jJGXJNylNQxmnKAHnLIzaOlkOPWQxbYrIQICKF/VHrl4qnwqdc9Cy
-user,$2a$10$jJGXJNylNQxmnKAHnLIzaOlkOPWQxbYrIQICKF/VHrl4qnwqdc9Cy

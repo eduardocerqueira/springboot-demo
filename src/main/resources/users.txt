@@ -1,2 +1,2 @@
-admin,$2a$10$jJGXJNylNQxmnKAHnLIzaOlkOPWQxbYrIQICKF/VHrl4qnwqdc9Cy
-user,$2a$10$jJGXJNylNQxmnKAHnLIzaOlkOPWQxbYrIQICKF/VHrl4qnwqdc9Cy
+admin,$2a$10$OTPqgRjMoPMC9HWvA92j0unrkf99MZE8Js6chUE7sqqdlbGPqtgsq
+user,$2a$10$W9vChIaQFe5926YowqkJbu68qoIOVOSdBlcDSDaRmZWOZMukheEgC

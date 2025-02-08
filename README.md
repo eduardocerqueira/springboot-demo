@@ -12,7 +12,7 @@
     mvn clean install
     mvn spring-boot:run
     ```
-4. Access the application at `http://localhost:8080`.
+4. Access the application at `http://localhost:8080/login` with `admin/admin`
 
 ## Endpoints
 - `/login` - Login page
@@ -40,6 +40,12 @@ otherwise running in cmd line:
 mvn exec:java -Dexec.mainClass="com.example.demo.PasswordEncryptor"
 or
 java -cp target/classes:target/dependency/* com.example.demo.PasswordEncryptor
+```
+
+## CVE Scan
+
+```
+trivy fs --severity HIGH,CRITICAL --dependency-tree -f table springboot-demo
 ```
 
 
